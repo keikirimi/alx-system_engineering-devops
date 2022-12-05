@@ -1,1 +1,1 @@
-Task 0. Where am i?
+hello world script
